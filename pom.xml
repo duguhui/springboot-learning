@@ -19,8 +19,9 @@
     </parent>
 
     <modules>
-        <module>rabbitmq/rabbitmq-consumer</module>
-        <module>rabbitmq/rabbitmq-producer</module>
+        <module>rabbitmq/consumer-example</module>
+        <module>rabbitmq/producer-example</module>
+        <module>storagemode/mysql-example</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
