@@ -1,12 +1,12 @@
-package com.dugu.mysqlexample;
+package com.dugu.mysqlmybatisexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MysqlExampleApplication {
+public class MysqlMybatisExampleApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MysqlExampleApplication.class, args);
+        SpringApplication.run(MysqlMybatisExampleApplication.class, args);
     }
 }
